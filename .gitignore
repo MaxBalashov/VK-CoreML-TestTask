@@ -1,2 +1,4 @@
 data/*
 pdf/._*
+notebooks/.ipynb_checkpoints
+src/__pycache__
