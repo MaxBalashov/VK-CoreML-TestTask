@@ -1,4 +1,5 @@
 data/*
-pdf/._*
+pdf/*.pdf
 notebooks/.ipynb_checkpoints
 src/__pycache__
+.vscode
